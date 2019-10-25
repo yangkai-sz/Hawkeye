@@ -1,0 +1,5 @@
+2019-10-25 与github信息泄露抗争
+要记得安装python3；https://blog.csdn.net/zhangdongren/article/details/82685932
+要记得单独安装MongoDB；https://www.cnblogs.com/saryli/p/9822819.html 关闭认证字段
+安装docker
+用docker拉镜像，或者用git。按照说明操作即可。
